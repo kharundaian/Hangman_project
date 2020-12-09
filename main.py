@@ -3,7 +3,7 @@ import pygame
 pygame.init()
 width, height = 800, 500
 win = pygame.display.set_mode((width, height))
-pygame.display.set_caption("Hangman Game !")
+pygame.display.set_caption("Hangman Game !!!")
 
 images = []
 for i in range(7):
